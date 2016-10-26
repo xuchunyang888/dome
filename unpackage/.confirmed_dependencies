@@ -1,0 +1,50 @@
+{
+  "index.html": {
+    "resources": [
+      "img/2.jpg",
+      "js/mui.min.js",
+      "img/1.jpg",
+      "fonts/mui.ttf",
+      "css/mui.min.css",
+      "img/4.jpg",
+      "img/3.jpg",
+      "html/tab-webview-subpage-about.html",
+      "html/tab-webview-subpage-setting.html"
+    ],
+    "refer": [
+      "html/load.html",
+      "html/tab-webview-subpage-setting.html",
+      "html/tab-webview-subpage-chat.html",
+      "html/tab-webview-subpage-contact.html",
+      "html/tab-webview-subpage-about.html"
+    ]
+  },
+  "html/load.html": {
+    "resources": [
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css"
+    ],
+    "refer": [
+      "html/reg.html"
+    ]
+  },
+  "html/tab-webview-subpage-about.html": {
+    "resources": [
+      "img/2.jpg",
+      "img/1.jpg",
+      "img/4.jpg",
+      "img/3.jpg",
+      "js/mui.min.js",
+      "fonts/mui.ttf",
+      "css/mui.min.css"
+    ]
+  },
+  "html/tab-webview-subpage-contact.html": {
+    "resources": [
+      "img/user.jpg",
+      "js/mui.min.js",
+      "css/mui.min.css"
+    ]
+  }
+}
